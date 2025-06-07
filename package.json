@@ -1,0 +1,14 @@
+{
+  "name": "sdksniffer",
+  "version": "0.1.0",
+  "description": "MITM tabanlı SDK trafik izleme ve analiz aracı",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "sametndsenol",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
+
